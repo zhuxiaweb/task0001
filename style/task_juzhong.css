@@ -1,0 +1,17 @@
+@charset "utf-8";
+
+.div1{
+	width:600px;
+	height:600px;
+	background-color:red;
+	margin:0 auto;
+}
+.div3{text-align:center;}
+.div2{
+	width:600px;
+	height:600px;
+	background-color:blue;
+	display:inline-block;
+	
+}
+.div4{ width:400px; height:400px; background-color:#000; position:fixed; top:50%; left:50%; transform:translate(-50%,-50%); -webkit-transform:translate(-50%,-50%); -moz-transform:translate(-50%,-50%); -o-transform:translate(-50%,-50%); -ms-transform:translate(-50%,-50%);}

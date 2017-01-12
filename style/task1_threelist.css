@@ -1,0 +1,43 @@
+@charset "utf-8";
+div,html,body{
+	margin:0;padding:0;
+}
+.div{
+position:relative;	
+height:50px;
+}
+
+.div_1{
+width:100px;
+float:left;
+background-color:red;
+}
+.div_2{
+	position:absolute;
+	left:100px;
+	right:100px;
+	background-color:blue;
+}
+
+.div_3{
+	width:100px;
+	float:right;
+	background-color:green;
+}
+
+.left{
+	width:150px;
+	background-color:#FF0;
+	height:100px;
+	float:left;
+}
+.center{
+	background-color:#F00;
+	height:100px;
+}
+.right{
+	width:150px;
+	background-color:#F0F;
+	height:100px;
+	float:right;
+}
